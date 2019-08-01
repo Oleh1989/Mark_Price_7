@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Packt.CS7.SharedLibrary_Oleg</PackageId>
+    <PackageVersion>1.0.0.0</PackageVersion>
+    <Authors>Oleg Babkov</Authors>
+    <PackageLicenseUrl>
+      https://opensource.org/licenses/MS-PL
+    </PackageLicenseUrl>
+    <PackageProjectUrl>
+      https://github.com/Oleh1989/Mark_Price_7
+    </PackageProjectUrl>
+    <PackageIconUrl>
+      https://github.com/markjprice/cs7dotnetcore/nuget.png
+    </PackageIconUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>
+      Examle by Oleh
+    </PackageReleaseNotes>
+    <Description>
+      Three extension methods to validate a string value
+    </Description>
+    <Copyright>
+      Copyright c2017 Packt Publishing Limited
+    </Copyright>
+    <PackageTags>
+      extension packt cs7
+    </PackageTags>
+  </PropertyGroup>
+
+</Project>

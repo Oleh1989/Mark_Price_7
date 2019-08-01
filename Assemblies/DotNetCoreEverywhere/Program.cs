@@ -1,13 +1,13 @@
 ﻿using System;
-using System.Xml.Linq;
+using static System.Console;
 
-namespace Assemblies
+namespace DotNetCoreEverywhere
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var doc = new XDocument();
+            WriteLine("I can run everywhere!");
         }
     }
 }
