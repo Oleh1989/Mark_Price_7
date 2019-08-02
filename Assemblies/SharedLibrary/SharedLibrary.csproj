@@ -15,7 +15,7 @@
     <PackageIconUrl>
       https://github.com/markjprice/cs7dotnetcore/nuget.png
     </PackageIconUrl>
-    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>
       Examle by Oleh
     </PackageReleaseNotes>
